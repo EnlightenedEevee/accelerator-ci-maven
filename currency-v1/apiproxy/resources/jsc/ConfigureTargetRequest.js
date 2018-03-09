@@ -1,5 +1,3 @@
 context.setVariable('target.copy.pathsuffix', false);
 
-context.setVariable('something', 'blah'
-
-
+context.setVariable('something', 'blah');
